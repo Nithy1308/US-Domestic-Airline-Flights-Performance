@@ -24,10 +24,12 @@ Clean dashboard layout with just title and dashboard dropdown menu.
 
 4)What is expected?
 Dashboard with 5 charts displayed after choosing the report type and an input year.
-Row 1 - Treemap 
+Row 1 -Tree map
+
 --
 Row 1, col 1 - Pie chart
 Row 1, col 2 - USA Map 
+
 --
 Row 2, Col 1 - Bar chart
 Row 2, Col 2 - Line chart
